@@ -292,9 +292,9 @@
 		"name": "Red Ball 4 Vol 3"
 	},
 	{
-		"url": "/files/load/eaglercraft/",
+		"url": "/files/EaglerMobile/index.html",
 		"imageSrc": "/files/load/eaglercraft/buddyholly.jpg",
-		"name": "Eaglercraft"
+		"name": "EaglerForge (Includes Mobile Support)"
 	},
 	{
 		"url": "/files/load/precisionclient/",
