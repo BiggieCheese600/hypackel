@@ -653,5 +653,10 @@
 		"url": "/files/skidibi/index.html",
 		"imageSrc": "/files/skidibi/splash.avif",
 		"name": "Skibidi Toilet"
+	},
+	{
+		"url": "/files/BurritoBison/index.html",
+		"imageSrc": "/files/BurritoBison/BurritoBison.jpg",
+		"name": "Burrito Bison"
 	}
 ]
