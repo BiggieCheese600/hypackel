@@ -658,5 +658,10 @@
 		"url": "/files/BurritoBison/index.html",
 		"imageSrc": "/files/BurritoBison/BurritoBison.jpg",
 		"name": "Burrito Bison"
+	},
+	{
+		"url": "/play/SM64/index.html",
+		"imageSrc": "/play/SM64/SM64.jpg",
+		"name": "Super Mario 64"
 	}
 ]
