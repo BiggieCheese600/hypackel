@@ -663,5 +663,10 @@
 		"url": "/play/SM64/index.html",
 		"imageSrc": "/play/SM64/SM64.jpg",
 		"name": "Super Mario 64"
+	},
+	{
+		"url": "/files/Doom_HTML/Titlescreen.html",
+		"imageSrc": "",
+		"name": "Test Game"
 	}
 ]
