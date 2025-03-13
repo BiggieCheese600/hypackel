@@ -658,5 +658,10 @@
 		"url": "/files/EmulatorJS/index.html",
 		"imageSrc": "/files/EmulatorJS/EmuJS.PNG",
 		"name": "EmulatorJS"
+	},
+	{
+		"url": "/files/sandtris/index.html",
+		"imageSrc": "/files/sandtris/sandtris.png",
+		"name": "Sandtris"
 	}
 ]
