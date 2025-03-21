@@ -87,6 +87,11 @@
 		"name": "Among Us"
 	},
 	{
+		"url": "/files/Dogeminer2/",
+		"imageSrc": "/files/Dogeminer2/img/dogeminer2.webp",
+		"name": "Doge Miner 2"
+	},
+	{
 		"url": "/files/load/DogeMiner/",
 		"imageSrc": "/files/load/DogeMiner/img/dogeminer_300x300.png",
 		"name": "Doge Miner"
