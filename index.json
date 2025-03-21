@@ -670,8 +670,8 @@
 		"name": "EmulatorJS"
 	},
 	{
-		"url": "/files/sandtris/index.html",
-		"imageSrc": "/files/sandtris/sandtris.png",
+		"url": "/files/Desktop/sandtris/index.html",
+		"imageSrc": "/files/Desktop/sandtris/sandtris.png",
 		"name": "Sandtris"
 	}
 ]
