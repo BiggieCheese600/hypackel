@@ -237,7 +237,7 @@
 		"name": "Gravity Soccer"
 	},
 	{
-		"url": "/files/load/lolbeans/",
+		"url": "/files/load/lolbeans/index.html",
 		"imageSrc": "/files/load/lolbeans/IMG_5301.jpeg",
 		"name": "LOL Beans"
 	},
@@ -302,19 +302,9 @@
 		"name": "Red Ball 4 Vol 3"
 	},
 	{
-		"url": "/files/EaglerForge/index.html",
+		"url": "/files/AmplerLauncher/index.html",
 		"imageSrc": "/files/load/eaglercraft/buddyholly.jpg",
-		"name": "EaglerForge (Includes Mobile Support)"
-	},
-	{
-		"url": "/files/load/precisionclient/",
-		"imageSrc": "/files/load/precisionclient/logo.png",
-		"name": "Precision Client"
-	},
-		{
-		"url": "/files/EaglerMobile/",
-		"imageSrc": "/files/load/eaglercraft/buddyholly.jpg",
-		"name": "EaglerMobile"
+		"name": "Ampler Launcher(Minecraft with mobile controls)"
 	},
 	{
 		"url": "/files/load/guymayhem/",
