@@ -207,6 +207,31 @@
 		"name": "Breaking The Bank"
 	},
 	{
+		"url": "/files/load/ETP/",
+		"imageSrc": "/files/load/ETP/etp.jpg",
+		"name": "Escaping The Prison"
+	},
+	{
+		"url": "/files/load/CTP/",
+		"imageSrc": "/files/load/CTP/ctp.png",
+		"name": "Crossing The Pit"
+	},
+	{
+		"url": "/files/load/STD/",
+		"imageSrc": "/files/load/STD/std.jpg",
+		"name": "Stealing The Diamond"
+	},
+	{
+		"url": "/files/load/ITA/",
+		"imageSrc": "/files/load/ITA/ita.jpg",
+		"name": "Infiltrating The Airship"
+	},
+	{
+		"url": "/files/load/FTC/",
+		"imageSrc": "/files/load/FTC/ftc.png",
+		"name": "Fleeing The Complex"
+	},
+	{
 		"url": "/files/load/noob-steve-parkour/",
 		"imageSrc": "/files/load/noob-steve-parkour/512x512.jpg",
 		"name": "Noob Steve Parkour"
