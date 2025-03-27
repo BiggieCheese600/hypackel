@@ -1,5 +1,10 @@
 [
 	{
+		"url": "/files/Chat/index.html",
+		"imageSrc": "/files/Chat/IMG_0317.jpeg",
+		"name": "Chat"
+	}, 
+	{
 		"url": "/files/fireboyandwater/forest.html",
 		"imageSrc": "/files/fireboyandwater/1.avif",
 		"name": "Fireboy and Watergirl. Forest Temple",
@@ -85,6 +90,11 @@
 		"url": "/files/load/amongus/",
 		"imageSrc": "/files/load/amongus/IMG_5257.jpeg",
 		"name": "Among Us"
+	},
+	{
+		"url": "/files/DogeMiner2/",
+		"imageSrc": "/files/DogeMiner2/dogeloader.svg",
+		"name": "Doge Miner 2"
 	},
 	{
 		"url": "/files/load/DogeMiner/",
@@ -252,7 +262,7 @@
 		"name": "Gravity Soccer"
 	},
 	{
-		"url": "/files/load/lolbeans/",
+		"url": "/files/load/lolbeans/index.html",
 		"imageSrc": "/files/load/lolbeans/IMG_5301.jpeg",
 		"name": "LOL Beans"
 	},
@@ -317,14 +327,9 @@
 		"name": "Red Ball 4 Vol 3"
 	},
 	{
-		"url": "/files/EaglerForge/index.html",
+		"url": "/files/AmplerLauncher/index.html",
 		"imageSrc": "/files/load/eaglercraft/buddyholly.jpg",
-		"name": "EaglerForge (Includes Mobile Support)"
-	},
-	{
-		"url": "/files/load/precisionclient/",
-		"imageSrc": "/files/load/precisionclient/logo.png",
-		"name": "Precision Client"
+		"name": "Ampler Launcher(Minecraft with mobile controls)"
 	},
 	{
 		"url": "/files/load/guymayhem/",
@@ -522,11 +527,6 @@
 		"name": "Smash Karts"
 	},
 	{
-		"url": "/files/load/pokemongames/pokemonruby/",
-		"imageSrc": "/files/load/pokemongames/pokemonruby/pokemon ruby.jpeg",
-		"name": "Pokemon Ruby"
-	},
-	{
 		"url": "/files/load/quake/",
 		"imageSrc": "/files/load/quake/splash.jpeg",
 		"name": "Quake"
@@ -557,11 +557,6 @@
 		"url": "/files/highway-traffic/file/index.html",
 		"imageSrc": "/files/highway-traffic/splash.jpg",
 		"name": "Highway Traffic"
-	},
-	{
-		"url": "/files/pokemon-firered/index.html",
-		"imageSrc": "/files/pokemon-firered/splash.webp",
-		"name": "Pokemon - Fire Red"
 	},
 	{
 		"url": "/files/snowrider-3d/index.html",
@@ -678,5 +673,25 @@
 		"url": "/files/skidibi/index.html",
 		"imageSrc": "/files/skidibi/splash.avif",
 		"name": "Skibidi Toilet"
+	},
+	{
+		"url": "/files/BurritoBison/index.html",
+		"imageSrc": "/files/BurritoBison/BurritoBison.jpg",
+		"name": "Burrito Bison"
+	},
+	{
+		"url": "/play/SM64/index.html",
+		"imageSrc": "/play/SM64/SM64.jpg",
+		"name": "Super Mario 64"
+	},
+	{
+		"url": "/files/EmulatorJS/index.html",
+		"imageSrc": "/files/EmulatorJS/EmuJS.PNG",
+		"name": "EmulatorJS"
+	},
+	{
+		"url": "/files/Desktop/sandtris/index.html",
+		"imageSrc": "/files/Desktop/sandtris/sandtris.png",
+		"name": "Sandtris"
 	}
 ]
