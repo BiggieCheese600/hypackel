@@ -685,9 +685,4 @@
 		"imageSrc": "/files/EmulatorJS/EmuJS.PNG",
 		"name": "EmulatorJS"
 	}
-	{
-		"url": "/files/PizzaTower/PizzaTower_GM2.html",
-		"imageSrc": "/files/PizzaTower/Pizza_Tower_Promo_Art.jpg",
-		"name": "Pizza Tower"
-	}
 ]
