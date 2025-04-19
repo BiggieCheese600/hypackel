@@ -684,5 +684,10 @@
 		"url": "/files/EmulatorJS/index.html",
 		"imageSrc": "/files/EmulatorJS/EmuJS.PNG",
 		"name": "EmulatorJS"
+	},
+	{
+		"url": "/files/crazycattle3d/index.html",
+		"imageSrc": "/files/crazycattle3d/CrazyCattle3D.png",
+		"name": "Crazy Cattle 3D"
 	}
 ]
