@@ -684,11 +684,5 @@
 		"url": "/files/EmulatorJS/index.html",
 		"imageSrc": "/files/EmulatorJS/EmuJS.PNG",
 		"name": "EmulatorJS"
-	},
-	{
-		"url": "/files/crazycattlehtml/CrazyCattle3D.html",
-		"imageSrc": "/files/crazycattlehtml/CrazyCattle3D.icon.png",
-		"name": "Crazy Cattle 3D",
-		"tags": "online, action",
 	}
 ]
