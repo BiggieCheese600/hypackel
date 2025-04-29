@@ -690,4 +690,9 @@
 		"imageSrc": "/files/crazycattle3d/CrazyCattle3D.png",
 		"name": "Crazy Cattle 3D"
 	}
+	{
+		"url": "/files/cc3dtest/CrazyCattle3D.html",
+		"imageSrc": "/files/cc3dtest/CrazyCattle3D.icon.png",
+		"name": "Crazy Cattle 3D test"
+	}
 ]
