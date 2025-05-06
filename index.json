@@ -689,5 +689,10 @@
 		"url": "/files/crazycattle3d/index.html",
 		"imageSrc": "/files/crazycattle3d/CrazyCattle3D.png",
 		"name": "Crazy Cattle 3D"
+	},
+	{
+		"url": "/files/scale/index.html",
+		"imageSrc": "/files/scale/scale.png",
+		"name": "Scale"
 	}
 ]
