@@ -694,5 +694,10 @@
 		"url": "/files/scale/index.html",
 		"imageSrc": "/files/scale/scale.png",
 		"name": "Scale"
+	},
+	{
+		"url": "/files/shellshock/index.html",
+		"imageSrc": "/files/shellshock/splash.webp",
+		"name": "Shell Shockers"
 	}
 ]
