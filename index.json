@@ -1,47 +1,4 @@
 [
-
-	{
-		"url": "/files/fireboyandwater/forest.html",
-		"imageSrc": "/files/fireboyandwater/1.avif",
-		"name": "Fireboy and Watergirl. Forest Temple",
-		"tags": "2 player, collaborate, fire, water",
-		"OnOtherServer": true
-	},
-	{
-		"url": "/files/fireboyandwater/light.html",
-		"imageSrc": "/files/fireboyandwater/2.jpeg",
-		"name": "Fireboy and Watergirl. Light Temple",
-		"tags": "2 Player, action, shooting, tag",
-		"OnOtherServer": true
-	},
-	{
-		"url": "/files/fireboyandwater/crystal.html",
-		"imageSrc": "/files/fireboyandwater/4.jpeg",
-		"name": "Fireboy and Watergirl. Crystal Temple",
-		"tags": "2 Player, action, shooting, tag",
-		"OnOtherServer": true
-	},
-	{
-		"url": "/files/fireboyandwater/elements.html",
-		"imageSrc": "/files/fireboyandwater/fireboyandwater.png",
-		"name": "Fireboy and Watergirl. Elements",
-		"tags": "2 Player, action, shooting, tag",
-		"OnOtherServer": true
-	},
-	{
-		"url": "/files/fireboyandwater/ice.html",
-		"imageSrc": "/files/fireboyandwater/3.png",
-		"name": "Fireboy and Watergirl. Ice Temple",
-		"tags": "2 Player, action, shooting, tag",
-		"OnOtherServer": true
-	},
-	{
-		"url": "/files/fireboyandwater/fairy.html",
-		"imageSrc": "/files/fireboyandwater/6.jpeg",
-		"name": "Fireboy and Watergirl. Fairy Temple",
-		"tags": "2 Player, action, shooting, tag",
-		"OnOtherServer": true
-	},
 	{
 		"name": "Geometry Dash",
 		"imageSrc": "/files/geodash/splash.webp",
@@ -52,18 +9,13 @@
 		"url": "/files/spacewaves/index.html",
 		"imageSrc": "/files/spacewaves/splash.avif",
 		"name": "Space Waves",
-        "OnOtherServer": true
-	}, 
-	{
-		"url": "/files/foodstars/index.html",
-		"imageSrc": "/files/foodstars/splash.avif",
-		"name": "Food Stars.io"
+        	"OnOtherServer": true
 	}, 
     {
 		"url": "/files/territorialio/build/index.html",
 		"imageSrc": "/files/territorialio/splash.png",
 		"name": "Territorial.io",
-        "OnOtherServer": true
+        	"OnOtherServer": true
 	}, 
 	{
 		"url": "/files/gunspinupdate/index.html",
